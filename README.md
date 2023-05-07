@@ -15,13 +15,12 @@ It may make the device stuck on boot loop and you may need to flash the Stock Ro
 > Uninstall user packages<br>
 > Removes Application for single user.<br>
 
-
 ## How to use it...
 
 ### Enable usb debugging
 ![image](https://user-images.githubusercontent.com/103060398/225995363-71625bee-c0ed-4cb1-be71-7d566747129e.png)<br>
 ![image](https://user-images.githubusercontent.com/103060398/225995783-76e50f7f-cde9-43f0-a80d-e4a7234231ae.png)<br>
-
+> To remove more packages add package name to < app-list.txt > , (Package name not application name)
 ### Install Adb on you system<br>
 *Ubuntu*<br>
  `sudo apt install android-sdk-platform-tools` <br>
