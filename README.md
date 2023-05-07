@@ -30,7 +30,7 @@ It may make the device stuck on boot loop and you may need to flash the Stock Ro
  *RedHat*<br>
  `sudo yum install android-tools`<br>
  *Windows*<br>
- `Debloat windows first..!`<br>
+ `We dont use Windows, Switch to linux first!`<br>
 ### Connect Device with USB<br>
 ### Run the script<br>
  `./debloat-android-cli.sh`<br>
