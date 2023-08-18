@@ -8,3 +8,5 @@ com.android.chrome
 com.google.android.apps.recorder
 com.google.android.apps.restore
 com.google.android.marvin.talkback
+com.google.android.onetimeinitializer
+com.google.android.projection.gearhead
