@@ -1,5 +1,4 @@
-com.google.android.googlequicksearchbox
-com.android.hotwordenrollmen.google
+com.android.hotwordenrollmen.xgoogle
 com.android.hotwordenrollmen.okgoogle
 com.android.gms.location.history
 com.google.android.gms.location.history
@@ -10,3 +9,6 @@ com.google.android.apps.restore
 com.google.android.marvin.talkback
 com.google.android.onetimeinitializer
 com.google.android.projection.gearhead
+com.google.android.tag
+org.lineageos.aperture
+com.google.android.googlequicksearchbox
