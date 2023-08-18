@@ -1,9 +1,8 @@
-com.google.android.dialer
 com.google.android.googlequicksearchbox
-con.google.android.apps.nbu.files
-com.google.android.inputmethod.latin
+com.android.hotwordenrollmen.google
 com.android.hotwordenrollmen.okgoogle
 com.android.gms.location.history
 com.google.android.gms.location.history
-
+com.android.bluetoothmidiservice
+com.android.chrome
 
