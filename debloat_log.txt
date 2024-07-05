@@ -1,2 +1,0 @@
-Failure [not installed for 0]
-Package com.android.hotwordenrollmen.xgoogle not found or removal failed.
