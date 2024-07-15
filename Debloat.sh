@@ -60,3 +60,34 @@ adb shell pm uninstall -k --user 0 com.google.android.apps.shopping.express # Go
 adb shell pm uninstall -k --user 0 com.google.vr.expeditions # Google Expeditions
 adb shell pm uninstall -k --user 0 com.google.android.apps.accessibility.auditor # Google Accessibility Scanner
 adb shell pm uninstall -k --user 0 com.google.android.apps.bard # Gemini
+adb shell pm uninstall -k --user 0 com.google.android.apps.nbu.files
+adb shell pm uninstall -k --user 0 com.google.android.printservice.recommendation
+adb shell pm uninstall -k --user 0 com.google.android.apps.healthdata
+adb shell pm uninstall -k --user 0 com.google.android.apps.gcs
+adb shell pm uninstall -k --user 0 com.google.android.feedback
+adb shell pm uninstall -k --user 0 com.google.android.setupwizard
+adb shell pm uninstall -k --user 0 com.google.android.apps.diagnosticstool
+adb shell pm uninstall -k --user 0 com.google.android.apps.photos
+adb shell pm uninstall -k --user 0 com.google.android.markup
+adb shell pm uninstall -k --user 0 com.google.audio.hearing.visualization.accessibility.scribe
+adb shell pm uninstall -k --user 0 com.google.android.apps.wallpaper.pixel
+adb shell pm uninstall -k --user 0 com.google.android.overlay.googleconfig
+adb shell pm uninstall -k --user 0 com.google.android.apps.emojiwallpaper
+adb shell pm uninstall -k --user 0 com.google.android.apps.customization.pixel
+adb shell pm uninstall -k --user 0 com.google.android.deskclock
+adb shell pm uninstall -k --user 0 com.google.android.apps.privacy.wildlife
+adb shell pm uninstall -k --user 0 com.google.android.apps.security.securityhub
+adb shell pm uninstall -k --user 0 com.google.pixel.livewallpaper
+adb shell pm uninstall -k --user 0 com.google.android.wallpaper.effects
+adb shell pm uninstall -k --user 0 com.google.ar.core
+adb shell pm uninstall -k --user 0 com.android.hotwordenrollment.okgoogle
+adb shell pm uninstall -k --user 0 com.android.hotwordenrollment.xgoogle
+adb shell pm uninstall -k --user 0 com.google.android.apps.googlecamera.fishfood
+adb shell pm uninstall -k --user 0 com.google.android.accessibility.soundamplifier
+adb shell pm uninstall -k --user 0 com.google.android.apps.docs
+adb shell pm uninstall -k --user 0 com.google.android.apps.wearables.maestro.companion
+adb shell pm uninstall -k --user 0 com.google.android.tts
+adb shell pm uninstall -k --user 0 com.google.android.apps.work.clouddpc
+adb shell pm uninstall -k --user 0 com.google.ambient.streaming
+adb shell pm uninstall -k --user 0 com.google.android.googlequicksearchbox.nga_resources
+
