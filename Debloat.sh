@@ -1,4 +1,5 @@
-
+adb shell pm uninstall -k --user 0 com.tencent.soter.soterserver
+adb shell pm uninstall -k --user 0 mark.via.gp 
 adb shell pm uninstall -k --user 0 com.miui.contentcatcher
 adb shell pm uninstall -k --user 0 com.android.printspooler
 adb shell pm uninstall -k --user 0 com.miui.audiomonitor
