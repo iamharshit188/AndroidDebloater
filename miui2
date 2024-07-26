@@ -1,8 +1,0 @@
-adb shell pm uninstall -k --user 0 com.miui.contentcatcher
-adb shell pm uninstall -k --user 0 com.android.printspooler
-adb shell pm uninstall -k --user 0 com.miui.audiomonitor
-adb shell pm uninstall -k --user 0 com.miui.voicetrigger
-adb shell pm uninstall -k --user 0 com.xiaomi.mircs
-adb shell pm uninstall -k --user 0 com.miui.daemon
-adb shell pm uninstall -k --user 0 com.xiaomi.xmsfkeeper
-
